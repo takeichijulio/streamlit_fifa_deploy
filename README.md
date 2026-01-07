@@ -73,9 +73,35 @@ O foco do projeto é **aprendizado e prática**, não um produto final comercial
 
 A aplicação está configurada para rodar no **Streamlit Cloud**.
 
+
+## 🚀 Status do Projeto
+
+- ✅ Projeto **estável**
+- 📚 Desenvolvido como parte do processo de aprendizado em Streamlit
+- 🔧 Estrutura aberta para evoluções futuras
+
 ---
 
-## 📁 Estrutura do Projeto
+## 🔮 Possíveis Evoluções Futuras
 
-Estrutura simples, focada na organização básica do app:
+Algumas ideias que podem ser exploradas futuramente:
+
+- Novos filtros e métricas
+- Otimização de performance (paginação, lazy loading)
+- Novas visualizações gráficas
+- Organização em módulos
+- Integração com outros datasets esportivos
+
+---
+
+## 👤 Autor
+
+Projeto desenvolvido por **Júlio Takeichi**, como parte dos estudos em programação, análise de dados e visualização interativa com Python.
+
+---
+
+## 📌 Observação
+
+Este projeto tem caráter **educacional e de portfólio**, com foco no aprendizado prático e na consolidação de conceitos fundamentais de desenvolvimento de dashboards.
+
 
